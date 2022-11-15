@@ -2,4 +2,4 @@
 
 ## Demos
 
-### 2Cat Translation (PaddlePaddle)[/Paddle-Non_Pix2Pix-2Cat-Demo]
+### 2Cat Translation [PaddlePaddle](/Paddle-Non_Pix2Pix-2Cat-Demo)

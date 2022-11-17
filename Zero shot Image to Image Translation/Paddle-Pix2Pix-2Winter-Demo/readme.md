@@ -4,3 +4,5 @@
 - No MsDisc and SN
 - Pretrained weight of this demo is avaiable at ./output
 
+### Translation result
+![result](./Images/demo%20result.png)

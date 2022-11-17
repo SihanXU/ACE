@@ -4,11 +4,5 @@
 - No MsDisc and SN
 - Pretrained weights of this demo is available at ./output
 
-### Input
-![Input](./Images/input.png)
-
-### Target
-![Target](./Images/target.png)
-
-### Output
-![Output](./Images/output.png)
+### Result
+![Result](./Images/result.png)

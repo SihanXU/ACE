@@ -4,4 +4,5 @@
 
 ## Demos
 
-### 2Cat Translation [PaddlePaddle](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation/Paddle-Non_Pix2Pix-2Cat-Demo)
+### [Non-pix2pix translation] 2Cat Translation [PaddlePaddle](./Paddle-Non_Pix2Pix-2Cat-Demo)
+### [Pix2Pix Translation] 2Winter Translation [PaddlePaddle](./Paddle-Pix2Pix-2Winter-Demo)

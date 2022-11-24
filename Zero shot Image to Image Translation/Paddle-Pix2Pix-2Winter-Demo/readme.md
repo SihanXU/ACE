@@ -1,5 +1,6 @@
 # [2Winter] Pix2Pix Zero-Shot Image2Image Translation Demo 
 
+- A simplified version, may contains some bugs.
 - Only training for about 10k iterations with the batchsize of 8
 - No MsDisc and SN
 - Pretrained weight of this demo is avaiable at ./output
